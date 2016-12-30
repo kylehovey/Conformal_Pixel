@@ -7,4 +7,4 @@ Once Pillow is installed, you can just run this script without arguments. All co
 
 Have fun! If you make some cool patterns feel free to message me on reddit (/u/spel3o).
 
-*Image Credit*: For the source image, I borrowed some amazing Pixel art from [Pukahuna](http://pukahuna.deviantart.com/art/Floating-Island-555511513) and [ewythr](http://ewythr.tumblr.com/post/68123376485). Go check out some of their brilliant work, and don't credit me for what they did. I only took their images and mathed them up.
+**Image Credit**: For the source image, I borrowed some amazing Pixel art from [Pukahuna](http://pukahuna.deviantart.com/art/Floating-Island-555511513) and [ewythr](http://ewythr.tumblr.com/post/68123376485). Go check out some of their brilliant work, and don't credit me for what they did. I only took their images and mathed them up.
